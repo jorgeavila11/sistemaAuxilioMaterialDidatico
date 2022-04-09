@@ -12,6 +12,6 @@ tec(app)
 var teste = require('./app/routes/teste')
 teste(app)
 
-app.listen('8000',() => {
+app.listen('3000',() => {
     console.log('servidor up')
 })

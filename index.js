@@ -3,6 +3,9 @@ const app = require('./config/server')
 var formCadastro = require('./app/routes/formularioCadastro')
 formCadastro(app)
 
+var formAlterar = require('./app/routes/alterarDados')
+formAlterar(app)
+
 var home = require('./app/routes/home')
 home(app)
 

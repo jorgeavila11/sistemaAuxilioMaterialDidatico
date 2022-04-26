@@ -1,6 +1,8 @@
 
 
 # sistemaAuxilioMaterialDidatico :school:
+
+![alt text](https://github.com/jorgeavila11/sistemaAuxilioMaterialDidatico/app/public/)
 ## Dependencias :warning:
 ### iniciando projeto
 - npm init

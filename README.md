@@ -1,5 +1,5 @@
-# sistemaAuxilioMaterialDidatico
-## Dependencias
+# sistemaAuxilioMaterialDidatico :school:
+## Dependencias :warning:
 ### iniciando projeto
 - npm init
 ### instalando o express

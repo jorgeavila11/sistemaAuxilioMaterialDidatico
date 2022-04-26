@@ -2,7 +2,7 @@
 
 # sistemaAuxilioMaterialDidatico :school:
 
-![alt text](https://github.com/jorgeavila11/sistemaAuxilioMaterialDidatico/app/public/)
+![alt text](https://github.com/jorgeavila11/sistemaAuxilioMaterialDidatico/blob/main/app/public/css/Sistema de Auxilio Material Didatico-banner(3).png)
 ## Dependencias :warning:
 ### iniciando projeto
 - npm init

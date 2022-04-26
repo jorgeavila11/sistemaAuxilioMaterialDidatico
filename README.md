@@ -1,13 +1,14 @@
 # sistemaAuxilioMaterialDidatico
 ## Dependencias
-&mdash; npm init
-###instalando o express
-&mdash; npm install express --save
-###instalando ejs
-&mdash; npm install ejs --save
-###instalando nodemon
-&mdash; npm install -g nodemon
-###instalando mysql
-&mdash; npm install mysql --save
-###instalando body-parser
-&mdash; npm install body-parser --save
+### iniciando projeto
+- npm init
+### instalando o express
+- npm install express --save
+### instalando ejs
+- npm install ejs --save
+### instalando nodemon
+- npm install -g nodemon
+### instalando mysql
+- npm install mysql --save
+### instalando body-parser
+- npm install body-parser --save
